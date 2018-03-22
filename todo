@@ -5,5 +5,7 @@
 ・amountをprivateにする
 ✅Dollarの副作用どうする？
 ・Moneyの丸め処理どうする？
+・ValueObject化：equals()
+・hashCode()
 
 */
