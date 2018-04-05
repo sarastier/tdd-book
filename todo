@@ -7,7 +7,7 @@
 ✅Moneyを変換して換算を行う
 ✅Reduce(Bank, String)
 ✅Sum.plusが空実装
-・Expression.timesも揃えていく
+✅Expression.timesも揃えていく
 
 従来からのTodoの残り：
 ・Moneyの丸め処理どうする？
