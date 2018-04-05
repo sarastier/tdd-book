@@ -1,11 +1,13 @@
 /**
 
-・$5 + 10 CHF = $10 (レートが２：１の場合）
+✅$5 + 10 CHF = $10 (レートが２：１の場合）
 ✅$5 + $5 = $10
 ・$5 + $5 が Moneyを返す
 ✅Bank.reduce(Money)
 ✅Moneyを変換して換算を行う
 ✅Reduce(Bank, String)
+・Sum.plusが空実装
+・Expression.timesも揃えていく
 
 従来からのTodoの残り：
 ・Moneyの丸め処理どうする？
