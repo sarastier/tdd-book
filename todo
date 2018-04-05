@@ -6,7 +6,7 @@
 ✅Bank.reduce(Money)
 ✅Moneyを変換して換算を行う
 ✅Reduce(Bank, String)
-・Sum.plusが空実装
+✅Sum.plusが空実装
 ・Expression.timesも揃えていく
 
 従来からのTodoの残り：
