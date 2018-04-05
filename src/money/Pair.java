@@ -1,3 +1,5 @@
+package money;
+
 public class Pair {
     private String from;
     private String to;
